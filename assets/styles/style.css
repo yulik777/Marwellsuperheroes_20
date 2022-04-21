@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.container{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    background-color: pink;}
+
+#marvels_cards{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 15px;
+}
+.raitRes{
+    color: green;
+}
